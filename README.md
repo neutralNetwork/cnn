@@ -5,3 +5,12 @@
 ### http://neuralnetworksanddeeplearning.com/chap2.html
 
 ## sigmoid function
+
+# examples
+## handwritten things
+### http://yann.lecun.com/exdb/mnist/
+
+## XOR neural network
+### https://github.com/harthur/brain
+
+
